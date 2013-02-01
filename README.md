@@ -1,4 +1,0 @@
-duikmeester.github.com
-======================
-
-Duikmeester

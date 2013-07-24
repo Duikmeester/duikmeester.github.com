@@ -1,4 +1,4 @@
-duikmeester.github.com
-======================
+duikmeester.github.io
+=====================
 
 Duikmeester
